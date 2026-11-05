@@ -1,0 +1,9 @@
+# Local configuration and runtime data
+config.json
+logs/
+state.json
+status.json
+bot.pid
+agent_cwd/
+__pycache__/
+*.py[cod]

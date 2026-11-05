@@ -1,0 +1,22 @@
+{
+  "host": "term.freedom8964.com",
+  "port": 2222,
+  "user": "guest",
+  "nick": "MyBot",
+  "poll_seconds": 60,
+  "intro": "🤖 MyBot is online and ready to help.",
+  "intro_every_connect": false,
+  "ignore_nicks": [
+    "ExampleBot"
+  ],
+  "answer_greetings": false,
+  "max_replies_per_poll": 3,
+  "reply_delay": 2.0,
+  "llm_cmd": "opencode-cli",
+  "llm_timeout": 75,
+  "llm_max_reply_chars": 220,
+  "context_messages": 15,
+  "reconnect_delay": 30,
+  "cols": 120,
+  "rows": 40
+}
